@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+#input-field {
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  border-bottom: 1.5px solid #ccc;
+  border-color: #ccc;
+}
+
+#logo4 {
+  text-decoration: none;
+  margin-top: 20px;
+  border-radius: 50%;
+}
+
+#text3 {
+  text-decoration: none;
+  color: #a6a6a6;
+  margin-top: -2px;
+  font-size: 20px;
+  margin-left: 50px;
+  width: 50px;
+  height: 30px;
+}
+
+.link {
+  text-decoration: none;
+}

@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  color: #5e5e5e;
+  display: block;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  height: 120vh;
+  display: block;
+}
+
+h2, h3 {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+}
+#pr {
+  front-size: 20px;
+  color: #bababa;
+  text-align: center;
+  justify-content: center;
+  text-decoration: none;
+}
